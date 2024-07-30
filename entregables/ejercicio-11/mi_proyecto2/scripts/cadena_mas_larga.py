@@ -43,3 +43,8 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # Ingresa una cadena de caracteres: 123asdf123/1234
+    # Cadenas repetidas:
+    # ['1', '2', '3', '12', '123', '23']
+    # La cadena más larga sin caracteres repetidos es:
+    # asdf123/
